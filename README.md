@@ -1,6 +1,3 @@
-Here’s the updated **README.md** file with **Task 1** removed:
-
----
 
 # Student Management System in Java
 
